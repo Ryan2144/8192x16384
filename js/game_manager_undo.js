@@ -306,7 +306,7 @@ GameManager.prototype.undoMove = function() {
     this.actuate();
   }
   else {
-    alert("You can undo up to 5 previous moves. Make another move if you want to make another undo!");
+    alert("You can undo up to 8 previous moves. Make another move if you want to make another undo!");
   }
 };
 
